@@ -602,4 +602,4 @@ window.cancelPreviewActive = true;
 
 }
 
-customElements.define("monitor-widget-v2", Monitor);
+customElements.define("monitor-widget-jqr", Monitor);
