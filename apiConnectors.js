@@ -1,10 +1,10 @@
 const url = {
-//  Token: "https://apiaxp.contactcenter.sears.com.mx/SecureTockenAPI/TransactionGatewayAPI/SPB_SearsVisa/SecureTokenAPI/ConsultToken",
- // gestionCobranza: "https://apiaxp.contactcenter.sears.com.mx/cobranza/ServiciosSearsVisa/spb_services/GestionCobranza",
- // encryPan: "https://apiaxp.contactcenter.sears.com.mx/EncryptPanAPI/TransactionGatewayAPI/SPB_SearsVisa/EncriptaPan",
-Token:            "https://searsvisaprod.sears.com.mx:8443/SecureTockenAPI/TransactionGatewayAPI/SPB_SearsVisa/SecureTokenAPI/ConsultToken",  
-  gestionCobranza:  "https://avayaprod.sears.com.mx:8443/cobranza/ServiciosSearsVisa/spb_services/GestionCobranza",
-  encryPan:         "https://searsvisaprod.sears.com.mx:8443/EncryptPanAPI/TransactionGatewayAPI/SPB_SearsVisa/EncriptaPan",
+  Token: "https://apiaxp.contactcenter.sears.com.mx/SecureTockenAPI/TransactionGatewayAPI/SPB_SearsVisa/SecureTokenAPI/ConsultToken",
+  gestionCobranza: "https://apiaxp.contactcenter.sears.com.mx/cobranza/ServiciosSearsVisa/spb_services/GestionCobranza",
+  encryPan: "https://apiaxp.contactcenter.sears.com.mx/EncryptPanAPI/TransactionGatewayAPI/SPB_SearsVisa/EncriptaPan",
+//Token:            "https://searsvisaprod.sears.com.mx:8443/SecureTockenAPI/TransactionGatewayAPI/SPB_SearsVisa/SecureTokenAPI/ConsultToken",  
+ // gestionCobranza:  "https://avayaprod.sears.com.mx:8443/cobranza/ServiciosSearsVisa/spb_services/GestionCobranza",
+ // encryPan:         "https://searsvisaprod.sears.com.mx:8443/EncryptPanAPI/TransactionGatewayAPI/SPB_SearsVisa/EncriptaPan",
 
 
 
