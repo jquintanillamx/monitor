@@ -1,0 +1,23 @@
+{
+    "metadata": {
+      "name": "Monitor-Preview",
+      "description": "Widget para el monitoreo de  Preview Dialing",
+      "tags": "cobranza, webcomponent, Preview, Dialing,monitor",
+      "version": "10.0",
+      "date": "2024-08-18T12:01:51.684Z",
+      "id": "33d4287c-0f1f-4593-8464-b7b645ef3b3c"
+    },
+    "configuration": {
+      "external": true,
+      "enabled": true,
+      "name": "33d4287c-0f1f-4593-8464-b7b645ef3b3c",
+      "icon": "aoc-home",
+      "element": "<monitor-widget></monitor-widget>",
+      "permissions": [],
+      "shortcuts": [],
+      "localisation": [],
+      "files": [
+        "monitor/monitor.js"
+      ]
+    }
+  }
